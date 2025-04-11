@@ -77,7 +77,7 @@ HTML Code
   </section>
 
   <footer>
-    <p>&copy; 2025 Chapter & Brew. All rights reserved.</p>
+    <p>&copy; 2025 The Sweet Spot. All rights reserved.</p>
   </footer>
 </body>
 
